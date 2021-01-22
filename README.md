@@ -1,5 +1,7 @@
 # UTU Crypto Tracker
 
+<img src="utu_crypto_tracker.png" width="300" height="500">
+
 ## Built with
 
 - React (Hooks)
